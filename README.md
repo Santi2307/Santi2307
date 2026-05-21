@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://santi-portafolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santiago+%F0%9F%91%8B;IT+Support+%26+Systems+Specialist;Colombian+in+Toronto+%F0%9F%87%A8%F0%9F%87%B4+%E2%9E%9C+%F0%9F%87%A8%F0%9F%87%A6;Building+things.+Solving+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Santiago+%F0%9F%91%8B;IT+Support+%26+Systems+Specialist." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,12 +24,10 @@
   <a href="mailto:santiagodelgadosanchez9@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/santidelgado2004/">
+  <a href="https://www.instagram.com/santiagodelgadosanchez/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Santi2307&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -42,11 +40,10 @@ I'm an **IT Support & Systems Specialist** based in Toronto, originally from Col
 I love **bridging people and technology** — whether that's fixing a stubborn computer glitch, automating a network with Ansible, or making tech feel less intimidating for someone who isn't a developer. The kind of person who'll cold-message a CEO on LinkedIn to land an internship (true story — got me my first one at Tigo Colombia).
 
 ```yaml
-location:  Toronto, ON · Canada 🇨🇦
-languages: [Spanish (native), English (C1/C2)]
-focus:     IT Support · Systems Administration · Networking
-status:    Open to opportunities
-fueled_by: Coffee + curiosity
+Location:  Toronto, Ontario · Canada 🇨🇦
+Languages: [Spanish (Native), English (C1/C2)]
+Focus:     IT Support · Systems Administration · Networking
+Status:    Open to opportunities
 ```
 
 <br/>
@@ -116,8 +113,7 @@ VLANs · OSPF · LAG/LACP · DHCP · RF engineering
 ## Currently
 
 - 🔭 Job searching across IT Support, Systems, and Networking roles in **Toronto**
-- 🤝 Helping run **Calzado Marsupial**, my family's leather footwear business in Colombia — built a WhatsApp automation flow using Treble.ai
-- 📚 Sharpening my skills with **RHCSA** and **Cisco CCNA** material
+- 📚 Sharpening my skills with **RHCSA**, **Cisco CCNA** material and ****Microsoft** Azure ** material
 - 🌱 Growing a nutrition-focused content community with my brother (1K+ subscribers and counting)
 
 <br/>

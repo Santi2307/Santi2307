@@ -35,9 +35,8 @@
 
 ## About me
 
-I'm an **IT Support & Systems Specialist** based in Toronto, originally from Colombia. Recent graduate from **Seneca Polytechnic** (Computer Systems Technology, GPA 3.7/4.0).
+I'm an **IT Support & Systems Specialist** based in Toronto, originally from Colombia. Recent graduate from **Seneca Polytechnic** from Computer Systems Technology Program.
 
-I love **bridging people and technology** — whether that's fixing a stubborn computer glitch, automating a network with Ansible, or making tech feel less intimidating for someone who isn't a developer. The kind of person who'll cold-message a CEO on LinkedIn to land an internship (true story — got me my first one at Tigo Colombia).
 
 ```yaml
 Location:  Toronto, Ontario · Canada 🇨🇦

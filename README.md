@@ -59,5 +59,12 @@ I work in both English (C1/C2) and Spanish (native), and I'm comfortable switchi
     <a href="mailto:santiagodelgadosanchez9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+    <a href="https://wa.me/14376616843">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+    <a href="https://calendly.com/santiagodelgadosanchez9/personal-meetings">
+  <img src="https://img.shields.io/badge/Schedule_a_call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar" />
+</a>
+    
   </a>
 </p>

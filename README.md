@@ -53,8 +53,20 @@ I work in both English (C1/C2) and Spanish (native), and I'm comfortable switchi
 
 ### Contact
 
-- **LinkedIn** — [linkedin.com/in/santiagodelgado23](https://linkedin.com/in/santiagodelgado23)
-- **Portfolio** — [github.com/Santi2307/santi-portafolio](https://github.com/Santi2307/santi-portafolio)
-- **Email** — available on request via LinkedIn
+<p align="left">
+  <a href="https://linkedin.com/in/santiagodelgado23">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Santi2307/santi-portafolio">
+    <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Santi2307">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Toronto,_ON-475569?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto" />
+</p>
 
 Open to coffee chats with anyone working in IT, systems, or networking in Toronto.

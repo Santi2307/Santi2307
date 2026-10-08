@@ -38,7 +38,7 @@ IT & systems specialist in Toronto who turns real, messy problems into setups th
 
 ### ⚡ A bit about me
 
-- Moved from Colombia to Canada in 2023 to study at Seneca.
+- Moved from Colombia to Canada in 2023 to study Computer Systems Technology.
 - Got my first internship in high school by messaging a CEO directly — I still go straight to the source.
 - Fully bilingual: native Spanish, C1/C2 English, and happy to switch mid-sentence.
 - Off the keyboard: cats 🐈, swimming 🏊 and getting lost in history books 📚

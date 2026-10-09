@@ -2,7 +2,7 @@
 
 IT & systems specialist in Toronto who turns real, messy problems into setups that just work — Linux servers, network automation and, lately, full-stack web apps. Colombian 🇨🇴, Seneca Polytechnic grad, and a firm believer that the best fix is the one nobody has to do twice.
 
-🔍 **Being honest:** I'm looking for full-time roles in **IT support, systems administration or network engineering** in the GTA — on-site, hybrid or remote.
+🔍 **Being honest:** I'm looking for full-time roles in **IT support, systems administration or network engineering** in Toronto — on-site, hybrid or remote.
 
 🌐 **Portfolio:** [santi-portafolio.vercel.app](https://santi-portafolio.vercel.app)
 

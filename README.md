@@ -1,6 +1,6 @@
-## Hola, I'm Santiago 👋
+## Hola,Bonjour, Hello I'm Santiago 👋
 
-IT & systems specialist in Toronto who turns real, messy problems into setups that just work — Linux servers, network automation and, lately, full-stack web apps. Colombian 🇨🇴, Seneca Polytechnic grad, and a firm believer that the best fix is the one nobody has to do twice.
+IT & systems specialist in Toronto who turns real, messy problems into setups that just work. Linux servers, network automation and, lately, full-stack web apps. Colombian 🇨🇴, Seneca Polytechnic grad, and a firm believer that the best fix is the one nobody has to do twice. Lock in
 
 🔍 **Being honest:** I'm looking for full-time roles in **IT support, systems administration or network engineering** in Toronto — on-site, hybrid or remote.
 
@@ -42,3 +42,6 @@ IT & systems specialist in Toronto who turns real, messy problems into setups th
 - Got my first internship in high school by messaging a CEO directly — I still go straight to the source.
 - Fully bilingual: native Spanish, C1/C2 English, and happy to switch mid-sentence.
 - Off the keyboard: cats 🐈, swimming 🏊 and getting lost in history books 📚
+
+  Sincerely,
+  Santiago

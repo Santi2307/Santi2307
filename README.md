@@ -4,7 +4,7 @@ IT & systems specialist in Toronto who turns real, messy problems into setups th
 
 🔍 **Being honest:** I'm looking for full-time roles in **IT support, systems administration or network engineering** in Toronto — on-site, hybrid or remote.
 
-🌐 **Portfolio:** [santi-portafolio.vercel.app](https://santi-portafolio.vercel.app)
+🌐 **Portfolio:** [santi-portafolio.vercel.app](https://santi-portafolio.vercel.app) 🗣️🗣️🗣️
 
 ### 📫 Let's talk
 
